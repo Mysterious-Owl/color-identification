@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=AzsgVuLHtf8
 
 ## Screenshot
 
-![Main](https://github.com/Mysterious-Owl/color-identification/blob/main/Screenshot.png)
+![Main](https://github.com/Mysterious-Owl/color-identification/blob/main/docs/Screenshot.png)
