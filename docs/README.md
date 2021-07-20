@@ -15,4 +15,4 @@ This program identifies the color of the pixel where mouse cursor is present.
 
 ## Screenshot
 
-![Main](https://github.com/Mysterious-Owl/color-identification/blob/main/Screenshot.png)
+![Main](https://raw.githubusercontent.com/Mysterious-Owl/color-identification/main/docs/Screenshot.png)
